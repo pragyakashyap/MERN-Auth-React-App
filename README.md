@@ -5,7 +5,8 @@ a MERN stack app with a React SPA frontend, JWT authentication and Redux Toolkit
 
 This is an app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool.
 
-<img src="./frontend/public/screen.png" />
+![Uploading screen.png…]()
+
 
 It includes the following:
 
