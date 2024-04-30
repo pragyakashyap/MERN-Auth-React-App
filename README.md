@@ -1,7 +1,7 @@
 # MERN-Auth-React-App
 a MERN stack app with a React SPA frontend, JWT authentication and Redux Toolkit
 
-# MERN Authentication Starter
+# MERN Authentication
 
 This is an app for a MERN stack application with authentication. This is for a SPA (Single Page Application) workflow that uses the [Vite](https://vite.dev) Build tool.
 
